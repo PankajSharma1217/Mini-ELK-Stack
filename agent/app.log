@@ -1,0 +1,569 @@
+[2026-07-07 11:30:32] WARN: API rate limit approaching user_id 668
+[2026-07-07 11:30:35] ERROR: Null pointer exception user_id 715
+[2026-07-07 11:30:37] INFO: Session started user_id 392
+[2026-07-07 11:30:40] INFO: Session started user_id 423
+[2026-07-07 11:30:41] ERROR: Auth failed for user user_id 231
+[2026-07-07 11:30:42] INFO: Data fetched user_id 249
+[2026-07-07 11:30:43] ERROR: Auth failed for user user_id 286
+[2026-07-07 11:30:43] ERROR: Database connection lost user_id 987
+[2026-07-07 11:30:44] ERROR: Database connection lost user_id 941
+[2026-07-07 11:30:47] INFO: Session started user_id 946
+[2026-07-07 11:30:48] WARN: Slow database query user_id 852
+[2026-07-07 11:30:49] INFO: Page rendered user_id 781
+[2026-07-07 11:30:51] INFO: Page rendered user_id 365
+[2026-07-07 11:30:53] ERROR: Database connection lost user_id 822
+[2026-07-07 11:30:56] INFO: User logged in user_id 984
+[2026-07-07 11:30:57] ERROR: Auth failed for user user_id 292
+[2026-07-07 11:30:59] ERROR: Database connection lost user_id 793
+[2026-07-07 11:31:01] ERROR: Null pointer exception user_id 742
+[2026-07-07 11:31:03] ERROR: Auth failed for user user_id 103
+[2026-07-07 11:31:04] WARN: High memory usage detected user_id 348
+[2026-07-07 11:31:06] ERROR: Auth failed for user user_id 81
+[2026-07-07 11:31:07] ERROR: Null pointer exception user_id 979
+[2026-07-07 11:31:08] ERROR: Auth failed for user user_id 239
+[2026-07-07 11:31:11] ERROR: Database connection lost user_id 732
+[2026-07-07 11:31:11] WARN: High memory usage detected user_id 416
+[2026-07-07 11:31:14] ERROR: Failed to parse JSON user_id 563
+[2026-07-07 11:31:16] ERROR: Failed to parse JSON user_id 428
+[2026-07-07 11:31:19] WARN: API rate limit approaching user_id 681
+[2026-07-07 11:31:21] ERROR: Failed to parse JSON user_id 238
+[2026-07-07 11:31:23] ERROR: Database connection lost user_id 908
+[2026-07-07 11:31:25] ERROR: Auth failed for user user_id 3
+[2026-07-07 11:31:25] INFO: Data fetched user_id 837
+[2026-07-07 11:31:28] WARN: API rate limit approaching user_id 296
+[2026-07-07 11:31:30] ERROR: Failed to parse JSON user_id 501
+[2026-07-07 11:31:32] ERROR: Null pointer exception user_id 144
+[2026-07-07 11:31:34] ERROR: Auth failed for user user_id 479
+[2026-07-07 11:31:34] WARN: API rate limit approaching user_id 36
+[2026-07-07 11:31:37] WARN: Slow database query user_id 567
+[2026-07-07 11:31:39] WARN: Slow database query user_id 382
+[2026-07-07 11:31:40] WARN: High memory usage detected user_id 430
+[2026-07-07 11:31:42] WARN: High memory usage detected user_id 533
+[2026-07-07 11:31:45] INFO: Page rendered user_id 124
+[2026-07-07 11:31:47] WARN: API rate limit approaching user_id 877
+[2026-07-07 11:31:49] ERROR: Null pointer exception user_id 443
+[2026-07-07 11:31:50] INFO: Data fetched user_id 541
+[2026-07-07 11:31:53] ERROR: Database connection lost user_id 647
+[2026-07-07 11:31:55] ERROR: Null pointer exception user_id 386
+[2026-07-07 11:31:56] ERROR: Null pointer exception user_id 511
+[2026-07-07 11:31:57] ERROR: Null pointer exception user_id 352
+[2026-07-07 11:32:00] WARN: Slow database query user_id 577
+[2026-07-07 11:32:01] WARN: Slow database query user_id 560
+[2026-07-07 11:32:04] WARN: API rate limit approaching user_id 734
+[2026-07-07 11:32:07] INFO: Data fetched user_id 332
+[2026-07-07 11:32:09] INFO: User logged in user_id 399
+[2026-07-07 11:32:11] ERROR: Auth failed for user user_id 594
+[2026-07-07 11:32:12] WARN: High memory usage detected user_id 845
+[2026-07-07 11:32:15] INFO: Data fetched user_id 963
+[2026-07-07 11:32:17] WARN: API rate limit approaching user_id 365
+[2026-07-07 11:32:18] INFO: Session started user_id 136
+[2026-07-07 11:32:21] ERROR: Database connection lost user_id 881
+[2026-07-07 11:32:23] ERROR: Auth failed for user user_id 324
+[2026-07-07 11:32:26] WARN: Slow database query user_id 319
+[2026-07-07 11:32:28] INFO: Data fetched user_id 940
+[2026-07-07 11:32:31] INFO: Data fetched user_id 74
+[2026-07-07 11:32:33] INFO: Data fetched user_id 567
+[2026-07-07 11:32:34] WARN: API rate limit approaching user_id 570
+[2026-07-07 11:32:36] WARN: Slow database query user_id 407
+[2026-07-07 11:32:39] WARN: High memory usage detected user_id 971
+[2026-07-07 11:32:40] WARN: Slow database query user_id 479
+[2026-07-07 11:32:43] ERROR: Database connection lost user_id 741
+[2026-07-07 11:32:44] INFO: User logged in user_id 156
+[2026-07-07 11:32:45] INFO: Page rendered user_id 945
+[2026-07-07 11:32:47] ERROR: Failed to parse JSON user_id 832
+[2026-07-07 11:32:50] INFO: User logged in user_id 236
+[2026-07-07 11:32:53] WARN: Slow database query user_id 799
+[2026-07-07 11:32:55] INFO: Data fetched user_id 665
+[2026-07-07 11:32:57] ERROR: Null pointer exception user_id 627
+[2026-07-07 11:32:59] ERROR: Failed to parse JSON user_id 311
+[2026-07-07 11:33:01] INFO: Page rendered user_id 747
+[2026-07-07 11:33:03] INFO: User logged in user_id 161
+[2026-07-07 11:33:04] WARN: High memory usage detected user_id 55
+[2026-07-07 11:33:07] ERROR: Auth failed for user user_id 340
+[2026-07-07 11:33:09] INFO: Session started user_id 113
+[2026-07-07 11:33:11] WARN: Slow database query user_id 430
+[2026-07-07 11:33:12] INFO: User logged in user_id 4
+[2026-07-07 11:33:13] ERROR: Database connection lost user_id 636
+[2026-07-07 11:33:14] WARN: Slow database query user_id 535
+[2026-07-07 11:33:17] INFO: User logged in user_id 931
+[2026-07-07 11:33:18] INFO: Session started user_id 517
+[2026-07-07 11:33:19] ERROR: Null pointer exception user_id 103
+[2026-07-07 11:33:20] INFO: User logged in user_id 468
+[2026-07-07 11:33:21] WARN: API rate limit approaching user_id 728
+[2026-07-07 11:33:23] INFO: User logged in user_id 886
+[2026-07-07 11:33:24] INFO: Page rendered user_id 215
+[2026-07-07 11:33:26] INFO: User logged in user_id 42
+[2026-07-07 11:33:29] ERROR: Null pointer exception user_id 74
+[2026-07-07 11:33:31] WARN: API rate limit approaching user_id 482
+[2026-07-07 11:33:34] INFO: Data fetched user_id 99
+[2026-07-07 11:33:35] WARN: High memory usage detected user_id 633
+[2026-07-07 11:33:37] INFO: Data fetched user_id 376
+[2026-07-07 11:33:38] INFO: User logged in user_id 474
+[2026-07-07 11:33:39] INFO: Page rendered user_id 397
+[2026-07-07 11:33:42] WARN: API rate limit approaching user_id 604
+[2026-07-07 11:33:43] INFO: Session started user_id 391
+[2026-07-07 11:33:46] ERROR: Failed to parse JSON user_id 755
+[2026-07-07 11:33:47] WARN: Slow database query user_id 823
+[2026-07-07 11:33:48] WARN: High memory usage detected user_id 517
+[2026-07-07 11:33:48] WARN: API rate limit approaching user_id 149
+[2026-07-07 11:33:50] ERROR: Null pointer exception user_id 454
+[2026-07-07 11:33:52] WARN: API rate limit approaching user_id 536
+[2026-07-07 11:33:53] ERROR: Auth failed for user user_id 415
+[2026-07-07 11:33:53] INFO: Data fetched user_id 169
+[2026-07-07 11:33:56] INFO: Session started user_id 866
+[2026-07-07 11:35:30] WARN: API rate limit approaching user_id 726
+[2026-07-07 11:35:31] WARN: Slow database query user_id 740
+[2026-07-07 11:35:34] ERROR: Auth failed for user user_id 46
+[2026-07-07 11:35:36] ERROR: Failed to parse JSON user_id 605
+[2026-07-07 11:35:39] INFO: Page rendered user_id 716
+[2026-07-07 11:35:41] ERROR: Failed to parse JSON user_id 536
+[2026-07-07 11:35:44] WARN: Slow database query user_id 179
+[2026-07-07 11:35:45] ERROR: Failed to parse JSON user_id 247
+[2026-07-07 11:35:46] WARN: High memory usage detected user_id 302
+[2026-07-07 11:35:47] WARN: API rate limit approaching user_id 418
+[2026-07-07 11:35:48] INFO: Page rendered user_id 351
+[2026-07-07 11:35:50] ERROR: Null pointer exception user_id 664
+[2026-07-07 11:35:51] WARN: API rate limit approaching user_id 822
+[2026-07-07 11:35:53] WARN: API rate limit approaching user_id 418
+[2026-07-07 11:35:55] ERROR: Auth failed for user user_id 627
+[2026-07-07 11:35:56] ERROR: Database connection lost user_id 868
+[2026-07-07 11:35:58] WARN: API rate limit approaching user_id 391
+[2026-07-07 11:36:01] INFO: Session started user_id 984
+[2026-07-07 11:36:02] WARN: High memory usage detected user_id 75
+[2026-07-07 11:36:03] ERROR: Database connection lost user_id 286
+[2026-07-07 11:36:04] ERROR: Database connection lost user_id 794
+[2026-07-07 11:36:06] INFO: Session started user_id 501
+[2026-07-07 11:36:08] WARN: API rate limit approaching user_id 343
+[2026-07-07 11:36:11] ERROR: Database connection lost user_id 855
+[2026-07-07 11:36:13] ERROR: Failed to parse JSON user_id 585
+[2026-07-07 11:36:14] WARN: API rate limit approaching user_id 401
+[2026-07-07 11:36:15] ERROR: Database connection lost user_id 920
+[2026-07-07 11:36:15] INFO: Session started user_id 962
+[2026-07-07 11:36:18] WARN: High memory usage detected user_id 206
+[2026-07-07 11:36:21] INFO: Page rendered user_id 982
+[2026-07-07 11:36:24] INFO: User logged in user_id 357
+[2026-07-07 11:36:27] INFO: Data fetched user_id 991
+[2026-07-07 11:37:32] INFO: User logged in user_id 963
+[2026-07-07 11:37:34] WARN: High memory usage detected user_id 123
+[2026-07-07 11:37:36] ERROR: Null pointer exception user_id 927
+[2026-07-07 11:37:39] WARN: High memory usage detected user_id 554
+[2026-07-07 11:37:40] INFO: Session started user_id 457
+[2026-07-07 11:37:41] ERROR: Auth failed for user user_id 259
+[2026-07-07 11:37:43] ERROR: Auth failed for user user_id 312
+[2026-07-07 11:37:44] ERROR: Failed to parse JSON user_id 899
+[2026-07-07 11:37:44] ERROR: Failed to parse JSON user_id 857
+[2026-07-07 11:37:47] INFO: Session started user_id 872
+[2026-07-07 11:37:49] INFO: User logged in user_id 561
+[2026-07-07 11:37:50] INFO: Session started user_id 681
+[2026-07-07 11:37:51] ERROR: Failed to parse JSON user_id 17
+[2026-07-07 11:37:54] WARN: API rate limit approaching user_id 187
+[2026-07-07 11:37:55] ERROR: Failed to parse JSON user_id 765
+[2026-07-07 11:37:58] WARN: API rate limit approaching user_id 893
+[2026-07-07 11:38:00] INFO: Page rendered user_id 430
+[2026-07-07 11:38:00] INFO: Data fetched user_id 834
+[2026-07-07 11:38:02] ERROR: Auth failed for user user_id 944
+[2026-07-07 11:38:02] ERROR: Failed to parse JSON user_id 753
+[2026-07-07 11:38:05] ERROR: Failed to parse JSON user_id 164
+[2026-07-07 11:38:07] INFO: Page rendered user_id 574
+[2026-07-07 11:38:08] ERROR: Failed to parse JSON user_id 169
+[2026-07-07 11:38:09] WARN: High memory usage detected user_id 951
+[2026-07-07 11:38:12] INFO: Session started user_id 447
+[2026-07-07 11:38:14] INFO: User logged in user_id 212
+[2026-07-07 11:38:16] ERROR: Database connection lost user_id 758
+[2026-07-07 11:38:18] ERROR: Null pointer exception user_id 583
+[2026-07-07 11:38:20] WARN: API rate limit approaching user_id 492
+[2026-07-07 11:38:22] WARN: High memory usage detected user_id 424
+[2026-07-07 11:38:22] INFO: Session started user_id 662
+[2026-07-07 11:38:24] ERROR: Failed to parse JSON user_id 935
+[2026-07-07 11:38:25] ERROR: Database connection lost user_id 388
+[2026-07-07 11:38:27] WARN: Slow database query user_id 298
+[2026-07-07 11:38:29] INFO: Data fetched user_id 184
+[2026-07-07 11:38:32] ERROR: Auth failed for user user_id 692
+[2026-07-07 11:38:35] ERROR: Null pointer exception user_id 132
+[2026-07-07 11:38:36] INFO: Session started user_id 26
+[2026-07-07 11:38:37] INFO: Session started user_id 506
+[2026-07-07 11:38:38] WARN: Slow database query user_id 6
+[2026-07-07 11:38:41] INFO: Data fetched user_id 384
+[2026-07-07 11:38:42] INFO: Data fetched user_id 478
+[2026-07-07 11:38:45] INFO: Data fetched user_id 899
+[2026-07-07 11:38:46] ERROR: Null pointer exception user_id 390
+[2026-07-07 11:38:48] INFO: Page rendered user_id 167
+[2026-07-07 11:38:50] WARN: High memory usage detected user_id 877
+[2026-07-07 11:38:51] INFO: Session started user_id 695
+[2026-07-07 11:38:51] INFO: Data fetched user_id 103
+[2026-07-07 11:38:53] ERROR: Auth failed for user user_id 69
+[2026-07-07 11:38:55] ERROR: Auth failed for user user_id 952
+[2026-07-07 11:38:58] WARN: API rate limit approaching user_id 131
+[2026-07-07 11:38:58] WARN: API rate limit approaching user_id 623
+[2026-07-07 11:39:00] WARN: API rate limit approaching user_id 317
+[2026-07-07 11:39:03] WARN: Slow database query user_id 647
+[2026-07-07 11:39:06] ERROR: Null pointer exception user_id 605
+[2026-07-07 11:39:08] ERROR: Database connection lost user_id 255
+[2026-07-07 11:39:09] ERROR: Failed to parse JSON user_id 523
+[2026-07-07 11:39:10] ERROR: Auth failed for user user_id 166
+[2026-07-07 11:39:11] WARN: High memory usage detected user_id 627
+[2026-07-07 11:39:11] ERROR: Database connection lost user_id 233
+[2026-07-07 11:39:12] ERROR: Failed to parse JSON user_id 235
+[2026-07-07 11:39:13] INFO: Page rendered user_id 360
+[2026-07-07 11:39:13] INFO: Page rendered user_id 244
+[2026-07-07 11:39:15] ERROR: Null pointer exception user_id 555
+[2026-07-07 11:39:16] INFO: User logged in user_id 650
+[2026-07-07 11:39:17] INFO: User logged in user_id 258
+[2026-07-07 11:39:19] INFO: Session started user_id 844
+[2026-07-07 11:39:20] INFO: Page rendered user_id 791
+[2026-07-07 11:39:20] WARN: High memory usage detected user_id 45
+[2026-07-07 11:39:21] WARN: High memory usage detected user_id 954
+[2026-07-07 11:39:22] WARN: API rate limit approaching user_id 463
+[2026-07-07 11:39:25] INFO: Data fetched user_id 359
+[2026-07-07 11:39:26] INFO: User logged in user_id 639
+[2026-07-07 11:39:28] WARN: Slow database query user_id 546
+[2026-07-07 11:39:30] WARN: Slow database query user_id 957
+[2026-07-07 11:39:31] WARN: High memory usage detected user_id 911
+[2026-07-07 11:39:34] WARN: API rate limit approaching user_id 121
+[2026-07-07 11:39:36] INFO: Session started user_id 320
+[2026-07-07 11:39:39] INFO: Session started user_id 571
+[2026-07-07 11:39:40] INFO: Session started user_id 761
+[2026-07-07 11:39:43] ERROR: Database connection lost user_id 969
+[2026-07-07 11:39:45] INFO: User logged in user_id 814
+[2026-07-07 11:39:47] ERROR: Auth failed for user user_id 335
+[2026-07-07 11:39:49] WARN: API rate limit approaching user_id 175
+[2026-07-07 11:39:50] INFO: Data fetched user_id 503
+[2026-07-07 11:39:52] WARN: Slow database query user_id 714
+[2026-07-07 11:39:54] ERROR: Null pointer exception user_id 908
+[2026-07-07 11:39:57] WARN: Slow database query user_id 915
+[2026-07-07 11:39:59] ERROR: Database connection lost user_id 333
+[2026-07-07 11:40:02] WARN: API rate limit approaching user_id 459
+[2026-07-07 11:40:04] INFO: Data fetched user_id 926
+[2026-07-07 11:40:04] ERROR: Failed to parse JSON user_id 263
+[2026-07-07 11:40:06] ERROR: Database connection lost user_id 410
+[2026-07-07 11:40:08] INFO: Session started user_id 900
+[2026-07-07 11:40:10] ERROR: Database connection lost user_id 617
+[2026-07-07 11:40:13] INFO: Session started user_id 320
+[2026-07-07 11:40:15] WARN: High memory usage detected user_id 26
+[2026-07-07 11:40:17] ERROR: Failed to parse JSON user_id 768
+[2026-07-07 11:40:18] WARN: High memory usage detected user_id 658
+[2026-07-07 11:40:20] INFO: Session started user_id 12
+[2026-07-07 11:40:21] WARN: High memory usage detected user_id 941
+[2026-07-07 11:40:22] ERROR: Auth failed for user user_id 419
+[2026-07-07 11:40:23] WARN: API rate limit approaching user_id 637
+[2026-07-07 11:40:25] INFO: User logged in user_id 281
+[2026-07-07 11:40:27] INFO: Session started user_id 923
+[2026-07-07 11:40:29] WARN: Slow database query user_id 949
+[2026-07-07 11:40:29] WARN: High memory usage detected user_id 824
+[2026-07-07 11:40:32] WARN: High memory usage detected user_id 615
+[2026-07-07 11:40:33] WARN: Slow database query user_id 733
+[2026-07-07 11:40:36] INFO: Session started user_id 655
+[2026-07-07 11:40:37] WARN: Slow database query user_id 116
+[2026-07-07 11:40:40] INFO: Page rendered user_id 409
+[2026-07-07 11:40:42] WARN: High memory usage detected user_id 107
+[2026-07-07 11:40:45] WARN: API rate limit approaching user_id 864
+[2026-07-07 11:40:46] WARN: API rate limit approaching user_id 300
+[2026-07-07 11:40:47] INFO: Page rendered user_id 616
+[2026-07-07 11:40:50] ERROR: Auth failed for user user_id 492
+[2026-07-07 11:40:51] INFO: Data fetched user_id 47
+[2026-07-07 11:40:52] ERROR: Database connection lost user_id 856
+[2026-07-07 11:40:53] ERROR: Auth failed for user user_id 147
+[2026-07-07 11:40:54] WARN: Slow database query user_id 215
+[2026-07-07 11:40:55] INFO: User logged in user_id 219
+[2026-07-07 11:40:57] ERROR: Auth failed for user user_id 873
+[2026-07-07 11:40:59] ERROR: Auth failed for user user_id 817
+[2026-07-07 11:41:01] ERROR: Null pointer exception user_id 91
+[2026-07-07 11:41:02] ERROR: Failed to parse JSON user_id 714
+[2026-07-07 11:41:03] ERROR: Database connection lost user_id 404
+[2026-07-07 11:41:06] INFO: User logged in user_id 888
+[2026-07-07 11:41:07] ERROR: Database connection lost user_id 316
+[2026-07-07 11:41:08] INFO: Session started user_id 726
+[2026-07-07 11:41:10] WARN: API rate limit approaching user_id 249
+[2026-07-07 11:41:13] INFO: User logged in user_id 735
+[2026-07-07 11:41:15] ERROR: Database connection lost user_id 766
+[2026-07-07 11:41:17] INFO: Data fetched user_id 572
+[2026-07-07 11:41:18] WARN: High memory usage detected user_id 280
+[2026-07-07 11:41:21] ERROR: Database connection lost user_id 956
+[2026-07-07 11:41:22] INFO: Session started user_id 861
+[2026-07-07 11:41:23] INFO: Session started user_id 732
+[2026-07-07 11:41:26] INFO: Session started user_id 520
+[2026-07-07 11:41:26] WARN: API rate limit approaching user_id 89
+[2026-07-07 11:41:28] ERROR: Database connection lost user_id 160
+[2026-07-07 11:41:31] INFO: Session started user_id 332
+[2026-07-07 11:41:32] WARN: Slow database query user_id 717
+[2026-07-07 11:41:33] ERROR: Null pointer exception user_id 519
+[2026-07-07 11:41:36] INFO: Page rendered user_id 791
+[2026-07-07 11:41:37] WARN: API rate limit approaching user_id 765
+[2026-07-07 11:41:38] WARN: API rate limit approaching user_id 521
+[2026-07-07 11:41:41] INFO: Data fetched user_id 381
+[2026-07-07 11:41:43] INFO: Data fetched user_id 796
+[2026-07-07 11:41:44] ERROR: Failed to parse JSON user_id 572
+[2026-07-07 11:41:45] INFO: Session started user_id 354
+[2026-07-07 11:41:46] WARN: High memory usage detected user_id 573
+[2026-07-07 11:41:49] ERROR: Database connection lost user_id 148
+[2026-07-07 11:41:50] WARN: API rate limit approaching user_id 554
+[2026-07-07 11:41:52] ERROR: Null pointer exception user_id 20
+[2026-07-07 11:41:53] WARN: Slow database query user_id 90
+[2026-07-07 11:41:54] WARN: High memory usage detected user_id 493
+[2026-07-07 11:41:55] ERROR: Null pointer exception user_id 654
+[2026-07-07 11:41:57] INFO: Page rendered user_id 166
+[2026-07-07 11:41:58] ERROR: Database connection lost user_id 671
+[2026-07-07 11:42:01] ERROR: Failed to parse JSON user_id 686
+[2026-07-07 11:42:01] WARN: High memory usage detected user_id 506
+[2026-07-07 11:42:04] WARN: High memory usage detected user_id 977
+[2026-07-07 11:42:05] INFO: Session started user_id 939
+[2026-07-07 11:42:08] ERROR: Database connection lost user_id 887
+[2026-07-07 11:42:09] ERROR: Null pointer exception user_id 718
+[2026-07-07 11:42:11] INFO: User logged in user_id 419
+[2026-07-07 11:42:13] WARN: API rate limit approaching user_id 455
+[2026-07-07 11:42:14] WARN: High memory usage detected user_id 567
+[2026-07-07 11:42:16] INFO: Page rendered user_id 173
+[2026-07-07 11:42:18] WARN: API rate limit approaching user_id 396
+[2026-07-07 11:42:19] ERROR: Auth failed for user user_id 82
+[2026-07-07 11:42:21] WARN: Slow database query user_id 350
+[2026-07-07 11:42:22] WARN: API rate limit approaching user_id 438
+[2026-07-07 11:42:23] INFO: Page rendered user_id 548
+[2026-07-07 11:42:23] ERROR: Failed to parse JSON user_id 411
+[2026-07-07 11:42:24] ERROR: Failed to parse JSON user_id 309
+[2026-07-07 11:42:25] INFO: Session started user_id 809
+[2026-07-07 11:42:26] ERROR: Auth failed for user user_id 174
+[2026-07-07 11:42:29] ERROR: Auth failed for user user_id 316
+[2026-07-07 11:42:30] INFO: Data fetched user_id 517
+[2026-07-07 11:42:31] WARN: High memory usage detected user_id 334
+[2026-07-07 11:42:33] WARN: Slow database query user_id 533
+[2026-07-07 11:42:34] INFO: User logged in user_id 838
+[2026-07-07 11:42:36] ERROR: Null pointer exception user_id 633
+[2026-07-07 11:42:37] WARN: Slow database query user_id 606
+[2026-07-07 11:42:37] INFO: Session started user_id 49
+[2026-07-07 11:42:38] INFO: Page rendered user_id 603
+[2026-07-07 11:42:40] ERROR: Failed to parse JSON user_id 596
+[2026-07-07 11:42:43] WARN: High memory usage detected user_id 119
+[2026-07-07 11:42:44] ERROR: Auth failed for user user_id 269
+[2026-07-07 11:42:46] WARN: High memory usage detected user_id 392
+[2026-07-07 11:42:47] INFO: Data fetched user_id 865
+[2026-07-07 11:42:48] WARN: Slow database query user_id 192
+[2026-07-07 11:42:49] INFO: User logged in user_id 802
+[2026-07-07 11:42:51] ERROR: Null pointer exception user_id 814
+[2026-07-07 11:42:52] WARN: API rate limit approaching user_id 167
+[2026-07-07 11:42:53] ERROR: Failed to parse JSON user_id 573
+[2026-07-07 11:42:54] WARN: Slow database query user_id 533
+[2026-07-07 11:42:56] WARN: API rate limit approaching user_id 850
+[2026-07-07 11:42:57] INFO: Session started user_id 29
+[2026-07-07 11:42:58] WARN: Slow database query user_id 25
+[2026-07-07 11:43:00] INFO: User logged in user_id 932
+[2026-07-07 11:43:01] WARN: API rate limit approaching user_id 448
+[2026-07-07 11:43:02] ERROR: Null pointer exception user_id 124
+[2026-07-07 11:43:04] INFO: Data fetched user_id 369
+[2026-07-07 11:43:05] INFO: Page rendered user_id 345
+[2026-07-07 11:43:07] INFO: User logged in user_id 448
+[2026-07-07 11:43:08] ERROR: Auth failed for user user_id 568
+[2026-07-07 11:43:10] INFO: Page rendered user_id 710
+[2026-07-07 11:43:13] WARN: API rate limit approaching user_id 916
+[2026-07-07 11:43:15] ERROR: Null pointer exception user_id 408
+[2026-07-07 11:43:16] WARN: High memory usage detected user_id 782
+[2026-07-07 11:43:19] WARN: API rate limit approaching user_id 729
+[2026-07-07 11:43:22] ERROR: Database connection lost user_id 970
+[2026-07-07 11:43:24] WARN: Slow database query user_id 459
+[2026-07-07 11:43:26] INFO: User logged in user_id 556
+[2026-07-07 11:43:29] WARN: API rate limit approaching user_id 685
+[2026-07-07 11:43:30] INFO: Data fetched user_id 458
+[2026-07-07 11:43:33] WARN: API rate limit approaching user_id 995
+[2026-07-07 11:43:35] ERROR: Failed to parse JSON user_id 699
+[2026-07-07 11:43:37] WARN: Slow database query user_id 882
+[2026-07-07 11:43:39] INFO: Session started user_id 503
+[2026-07-07 11:43:42] WARN: Slow database query user_id 933
+[2026-07-07 11:43:42] ERROR: Auth failed for user user_id 428
+[2026-07-07 11:43:45] INFO: Session started user_id 321
+[2026-07-07 11:43:46] ERROR: Auth failed for user user_id 945
+[2026-07-07 11:43:49] ERROR: Database connection lost user_id 694
+[2026-07-07 11:43:51] INFO: Session started user_id 452
+[2026-07-07 11:43:52] WARN: High memory usage detected user_id 568
+[2026-07-07 11:43:53] WARN: High memory usage detected user_id 478
+[2026-07-07 11:43:56] WARN: Slow database query user_id 988
+[2026-07-07 11:43:57] INFO: Data fetched user_id 434
+[2026-07-07 11:44:00] ERROR: Database connection lost user_id 315
+[2026-07-07 11:44:02] INFO: Session started user_id 450
+[2026-07-07 11:44:03] WARN: API rate limit approaching user_id 570
+[2026-07-07 11:44:04] ERROR: Failed to parse JSON user_id 923
+[2026-07-07 11:44:05] ERROR: Auth failed for user user_id 449
+[2026-07-07 11:44:07] INFO: Page rendered user_id 329
+[2026-07-07 11:44:08] ERROR: Auth failed for user user_id 544
+[2026-07-07 11:44:11] INFO: Page rendered user_id 575
+[2026-07-07 11:44:12] WARN: Slow database query user_id 459
+[2026-07-07 11:44:14] WARN: High memory usage detected user_id 458
+[2026-07-07 11:44:16] ERROR: Null pointer exception user_id 723
+[2026-07-07 11:44:18] INFO: Session started user_id 701
+[2026-07-07 11:44:19] WARN: High memory usage detected user_id 921
+[2026-07-07 11:44:21] ERROR: Auth failed for user user_id 770
+[2026-07-07 11:44:23] WARN: High memory usage detected user_id 546
+[2026-07-07 11:44:24] WARN: API rate limit approaching user_id 475
+[2026-07-07 11:44:26] INFO: Session started user_id 273
+[2026-07-07 11:44:28] WARN: Slow database query user_id 762
+[2026-07-07 11:44:29] WARN: API rate limit approaching user_id 155
+[2026-07-07 11:44:30] WARN: API rate limit approaching user_id 479
+[2026-07-07 11:44:32] INFO: Page rendered user_id 574
+[2026-07-07 11:44:33] WARN: Slow database query user_id 980
+[2026-07-07 11:44:36] ERROR: Database connection lost user_id 354
+[2026-07-07 11:44:39] INFO: Data fetched user_id 46
+[2026-07-07 11:44:42] ERROR: Database connection lost user_id 7
+[2026-07-07 11:44:44] ERROR: Auth failed for user user_id 565
+[2026-07-07 11:44:46] INFO: Data fetched user_id 436
+[2026-07-07 11:44:48] INFO: Session started user_id 566
+[2026-07-07 11:44:49] INFO: Session started user_id 564
+[2026-07-07 11:44:52] WARN: High memory usage detected user_id 680
+[2026-07-07 11:44:54] ERROR: Failed to parse JSON user_id 739
+[2026-07-07 11:44:56] INFO: Data fetched user_id 900
+[2026-07-07 11:44:59] INFO: Data fetched user_id 614
+[2026-07-07 11:45:01] INFO: Page rendered user_id 410
+[2026-07-07 11:45:02] ERROR: Null pointer exception user_id 538
+[2026-07-07 11:45:03] WARN: High memory usage detected user_id 653
+[2026-07-07 11:45:05] ERROR: Failed to parse JSON user_id 797
+[2026-07-07 11:45:07] ERROR: Auth failed for user user_id 841
+[2026-07-07 11:45:09] INFO: User logged in user_id 652
+[2026-07-07 11:45:10] ERROR: Failed to parse JSON user_id 387
+[2026-07-07 11:45:13] WARN: High memory usage detected user_id 433
+[2026-07-07 11:45:16] ERROR: Null pointer exception user_id 60
+[2026-07-07 11:45:17] ERROR: Auth failed for user user_id 202
+[2026-07-07 11:45:20] INFO: Session started user_id 87
+[2026-07-07 11:45:21] ERROR: Auth failed for user user_id 663
+[2026-07-07 11:45:23] INFO: User logged in user_id 851
+[2026-07-07 11:45:26] INFO: Data fetched user_id 37
+[2026-07-07 11:45:28] ERROR: Database connection lost user_id 423
+[2026-07-07 11:45:29] WARN: API rate limit approaching user_id 484
+[2026-07-07 11:45:31] WARN: High memory usage detected user_id 303
+[2026-07-07 11:45:33] INFO: User logged in user_id 980
+[2026-07-07 11:45:35] ERROR: Database connection lost user_id 611
+[2026-07-07 11:45:37] WARN: High memory usage detected user_id 312
+[2026-07-07 11:45:39] WARN: API rate limit approaching user_id 725
+[2026-07-07 11:45:40] ERROR: Null pointer exception user_id 265
+[2026-07-07 11:45:42] WARN: Slow database query user_id 553
+[2026-07-07 11:45:45] INFO: Data fetched user_id 108
+[2026-07-07 11:45:47] WARN: API rate limit approaching user_id 151
+[2026-07-07 11:45:48] WARN: High memory usage detected user_id 405
+[2026-07-07 11:45:49] INFO: Data fetched user_id 631
+[2026-07-07 11:45:51] WARN: High memory usage detected user_id 838
+[2026-07-07 11:45:53] ERROR: Failed to parse JSON user_id 418
+[2026-07-07 11:45:54] INFO: User logged in user_id 673
+[2026-07-07 11:45:57] ERROR: Auth failed for user user_id 388
+[2026-07-07 11:45:59] INFO: Session started user_id 40
+[2026-07-07 11:46:00] INFO: Data fetched user_id 571
+[2026-07-07 11:46:01] INFO: Page rendered user_id 758
+[2026-07-07 11:46:04] INFO: Data fetched user_id 579
+[2026-07-07 11:46:06] ERROR: Failed to parse JSON user_id 64
+[2026-07-07 11:46:08] INFO: Session started user_id 358
+[2026-07-07 11:46:09] ERROR: Failed to parse JSON user_id 652
+[2026-07-07 11:46:10] INFO: Data fetched user_id 794
+[2026-07-07 11:46:13] INFO: Session started user_id 572
+[2026-07-07 11:46:14] ERROR: Auth failed for user user_id 575
+[2026-07-07 11:46:16] ERROR: Database connection lost user_id 11
+[2026-07-07 11:46:19] WARN: High memory usage detected user_id 473
+[2026-07-07 11:46:21] ERROR: Auth failed for user user_id 412
+[2026-07-07 11:46:23] INFO: Page rendered user_id 505
+[2026-07-07 11:46:24] INFO: Session started user_id 916
+[2026-07-07 11:46:26] ERROR: Auth failed for user user_id 958
+[2026-07-07 11:46:28] WARN: High memory usage detected user_id 94
+[2026-07-07 11:46:31] ERROR: Failed to parse JSON user_id 439
+[2026-07-07 11:46:34] WARN: API rate limit approaching user_id 579
+[2026-07-07 11:46:35] ERROR: Failed to parse JSON user_id 214
+[2026-07-07 11:46:37] ERROR: Database connection lost user_id 858
+[2026-07-07 11:46:40] WARN: Slow database query user_id 855
+[2026-07-07 11:46:40] INFO: Session started user_id 324
+[2026-07-07 11:46:42] INFO: Page rendered user_id 461
+[2026-07-07 11:46:45] INFO: Page rendered user_id 807
+[2026-07-07 11:46:46] INFO: User logged in user_id 678
+[2026-07-07 11:46:49] WARN: Slow database query user_id 858
+[2026-07-07 11:46:51] ERROR: Failed to parse JSON user_id 152
+[2026-07-07 11:46:52] INFO: Session started user_id 62
+[2026-07-07 11:46:55] WARN: High memory usage detected user_id 757
+[2026-07-07 11:46:57] WARN: High memory usage detected user_id 913
+[2026-07-07 11:46:58] ERROR: Null pointer exception user_id 130
+[2026-07-07 11:47:00] INFO: Page rendered user_id 569
+[2026-07-07 11:47:02] ERROR: Failed to parse JSON user_id 912
+[2026-07-07 11:47:03] ERROR: Failed to parse JSON user_id 353
+[2026-07-07 11:47:04] ERROR: Auth failed for user user_id 315
+[2026-07-07 11:47:06] INFO: User logged in user_id 964
+[2026-07-07 11:47:08] WARN: Slow database query user_id 763
+[2026-07-07 11:47:10] WARN: API rate limit approaching user_id 12
+[2026-07-07 11:47:10] ERROR: Failed to parse JSON user_id 790
+[2026-07-07 11:47:13] ERROR: Database connection lost user_id 121
+[2026-07-07 11:47:15] INFO: User logged in user_id 755
+[2026-07-07 11:47:17] WARN: High memory usage detected user_id 723
+[2026-07-07 11:47:17] INFO: Session started user_id 59
+[2026-07-07 11:47:18] WARN: API rate limit approaching user_id 241
+[2026-07-07 11:47:21] INFO: Session started user_id 373
+[2026-07-07 11:47:23] INFO: Session started user_id 692
+[2026-07-07 11:47:24] WARN: Slow database query user_id 909
+[2026-07-07 11:47:25] INFO: User logged in user_id 687
+[2026-07-07 11:47:27] INFO: Page rendered user_id 420
+[2026-07-07 11:47:29] INFO: Page rendered user_id 65
+[2026-07-07 11:47:31] ERROR: Auth failed for user user_id 404
+[2026-07-07 11:47:32] INFO: Session started user_id 93
+[2026-07-07 11:47:35] WARN: Slow database query user_id 366
+[2026-07-07 11:47:38] INFO: Data fetched user_id 929
+[2026-07-07 11:47:39] ERROR: Database connection lost user_id 654
+[2026-07-07 11:47:41] INFO: User logged in user_id 897
+[2026-07-07 11:47:41] ERROR: Auth failed for user user_id 627
+[2026-07-07 11:47:43] WARN: API rate limit approaching user_id 371
+[2026-07-07 11:47:44] WARN: Slow database query user_id 763
+[2026-07-07 11:47:45] INFO: Data fetched user_id 314
+[2026-07-07 11:47:48] WARN: Slow database query user_id 960
+[2026-07-07 11:47:50] WARN: High memory usage detected user_id 153
+[2026-07-07 11:47:51] ERROR: Failed to parse JSON user_id 687
+[2026-07-07 11:47:52] INFO: User logged in user_id 436
+[2026-07-07 11:47:53] INFO: Session started user_id 548
+[2026-07-07 11:47:54] INFO: User logged in user_id 613
+[2026-07-07 11:47:57] INFO: Data fetched user_id 645
+[2026-07-07 11:47:58] WARN: Slow database query user_id 216
+[2026-07-07 11:48:01] ERROR: Auth failed for user user_id 487
+[2026-07-07 11:48:04] ERROR: Failed to parse JSON user_id 582
+[2026-07-07 11:48:06] WARN: API rate limit approaching user_id 381
+[2026-07-07 11:48:08] INFO: User logged in user_id 290
+[2026-07-07 11:48:10] WARN: API rate limit approaching user_id 764
+[2026-07-07 11:48:12] WARN: Slow database query user_id 45
+[2026-07-07 11:48:14] INFO: Page rendered user_id 361
+[2026-07-07 11:48:14] WARN: API rate limit approaching user_id 163
+[2026-07-07 11:48:17] ERROR: Auth failed for user user_id 331
+[2026-07-07 11:48:20] INFO: Page rendered user_id 982
+[2026-07-07 11:48:21] INFO: Data fetched user_id 549
+[2026-07-07 11:48:23] ERROR: Failed to parse JSON user_id 343
+[2026-07-07 11:48:25] INFO: Session started user_id 315
+[2026-07-07 11:48:26] ERROR: Database connection lost user_id 587
+[2026-07-07 11:48:28] WARN: Slow database query user_id 894
+[2026-07-07 11:48:31] ERROR: Auth failed for user user_id 518
+[2026-07-07 11:48:34] ERROR: Null pointer exception user_id 480
+[2026-07-07 11:48:37] INFO: Page rendered user_id 113
+[2026-07-07 11:48:40] ERROR: Auth failed for user user_id 32
+[2026-07-07 11:48:41] ERROR: Null pointer exception user_id 707
+[2026-07-07 11:48:43] INFO: Session started user_id 374
+[2026-07-07 11:48:46] ERROR: Database connection lost user_id 885
+[2026-07-07 11:48:46] ERROR: Failed to parse JSON user_id 682
+[2026-07-07 11:48:49] WARN: API rate limit approaching user_id 178
+[2026-07-07 11:48:51] WARN: High memory usage detected user_id 669
+[2026-07-07 11:48:53] ERROR: Database connection lost user_id 87
+[2026-07-07 11:48:56] WARN: API rate limit approaching user_id 93
+[2026-07-07 11:48:58] ERROR: Failed to parse JSON user_id 334
+[2026-07-07 11:48:59] ERROR: Failed to parse JSON user_id 688
+[2026-07-07 11:49:00] WARN: Slow database query user_id 48
+[2026-07-07 11:49:01] ERROR: Failed to parse JSON user_id 712
+[2026-07-07 11:49:02] INFO: Session started user_id 206
+[2026-07-07 11:49:03] ERROR: Null pointer exception user_id 471
+[2026-07-07 11:49:05] WARN: Slow database query user_id 145
+[2026-07-07 11:49:07] INFO: Session started user_id 500
+[2026-07-07 11:49:08] INFO: Session started user_id 254
+[2026-07-07 11:49:10] WARN: Slow database query user_id 803
+[2026-07-07 11:49:12] ERROR: Failed to parse JSON user_id 819
+[2026-07-07 11:49:15] INFO: User logged in user_id 526
+[2026-07-07 11:49:17] INFO: Page rendered user_id 878
+[2026-07-07 11:49:20] ERROR: Database connection lost user_id 438
+[2026-07-07 11:49:21] INFO: Data fetched user_id 406
+[2026-07-07 11:49:24] ERROR: Null pointer exception user_id 65
+[2026-07-07 11:49:25] INFO: Page rendered user_id 959
+[2026-07-07 11:49:33] INFO: Session started user_id 945
+[2026-07-07 11:49:33] INFO: User logged in user_id 696
+[2026-07-07 11:49:35] ERROR: Null pointer exception user_id 933
+[2026-07-07 11:49:36] WARN: Slow database query user_id 913
+[2026-07-07 11:49:37] INFO: Session started user_id 316
+[2026-07-07 11:49:38] WARN: API rate limit approaching user_id 434
+[2026-07-07 11:49:39] INFO: Session started user_id 743
+[2026-07-07 11:49:41] WARN: High memory usage detected user_id 577
+[2026-07-07 11:49:41] INFO: Page rendered user_id 77
+[2026-07-07 11:49:42] INFO: User logged in user_id 601
+[2026-07-07 11:49:44] WARN: API rate limit approaching user_id 106
+[2026-07-07 11:49:45] INFO: Session started user_id 546
+[2026-07-07 11:49:48] ERROR: Failed to parse JSON user_id 333
+[2026-07-07 11:49:50] ERROR: Auth failed for user user_id 702
