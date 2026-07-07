@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  meilisearch:
+    image: getmeili/meilisearch:v1.9
+    container_name: mini-elk-meilisearch
+    environment:
+      - MEILI_MASTER_KEY=mini-elk-master-key
+      - MEILI_NO_ANALYTICS=true
+    ports:
+      - "7700:7700"
+    volumes:
+      - meilisearch-data:/meili_data
+    restart: unless-stopped
+
+volumes:
+  meilisearch-data:
